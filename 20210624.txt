@@ -1,4 +1,10 @@
-0624 todo list
+0624 
+수업 내용
+- matplolib
+- pandas
+- 캐글
+
+todo list
 - matplolib 연습
 - 팀프로젝트 : pandas 데이터 처리
 - 점프투파이썬 2장 개념정리
